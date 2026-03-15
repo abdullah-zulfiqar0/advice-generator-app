@@ -99,8 +99,8 @@ It helped me learn faster while still writing and testing the code myself.
 
 <ul>
 <li><b>Name:</b> Abdullah Zulfiqar</li>
-<li><b>Frontend Mentor:</b> https://www.frontendmentor.io/profile/yourusername</li>
-<li><b>GitHub:</b> https://github.com/yourusername</li>
+<li><b>Frontend Mentor:</b> <a href="https://github.com/abdullah-zulfiqar0"></li>
+<li><b>GitHub:</b> <a href=" https://abdullah-zulfiqar0.github.io/advice-generator-app/"></li>
 </ul>
 
 <hr>
