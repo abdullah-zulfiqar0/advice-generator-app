@@ -105,13 +105,14 @@ font-size:1.2rem;
 }
 
 }
+
 .credit{
 
 
     position: absolute;
     top: 22rem;
 }
-span{
+Span{
     font-size: 0.7rem;
      font-weight:200;
      color: hsl(150, 100%, 66%);
