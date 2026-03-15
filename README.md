@@ -27,8 +27,14 @@ Users should be able to:
 <h3>Links</h3>
 
 <ul>
-<li><b>Solution URL:</b> <a href="https://github.com/abdullah-zulfiqar0/advice-generator-app"> </a></li>
-<li><b>Live Site URL:</b>  <a href="https://abdullah-zulfiqar0.github.io/advice-generator-app/"></a></li>
+ <li><b>Solution URL:</b> 
+    <a href="https://github.com/abdullah-zulfiqar0/advice-generator-app">
+      advice-generator-app
+    </a>
+ <li><b>Live Site:</b> 
+    <a href="https://abdullah-zulfiqar0.github.io/advice-generator-app/">
+      advice-generator-app
+    </a>
 </ul>
 
 <hr>
