@@ -27,7 +27,7 @@ Users should be able to:
 <h3>Links</h3>
 
 <ul>
-<li><b>Solution URL:</b> https://www.frontendmentor.io/solutions/your-solution-link</li>
+<li><b>Solution URL:</b> </li>
 <li><b>Live Site URL:</b> https://your-live-site-url.com</li>
 </ul>
 
@@ -96,11 +96,28 @@ It helped me learn faster while still writing and testing the code myself.
 <hr>
 
 <h2>Author</h2>
+<h2>Author</h2>
 
 <ul>
-<li><b>Name:</b> Abdullah Zulfiqar</li>
-<li><b>Frontend Mentor:</b> <a href="https://github.com/abdullah-zulfiqar0"></li>
-<li><b>GitHub:</b> <a href=" https://abdullah-zulfiqar0.github.io/advice-generator-app/"></li>
+  <li><b>Name:</b> Abdullah Zulfiqar</li>
+
+  <li><b>Frontend Mentor:</b> 
+    <a href="https://www.frontendmentor.io/profile/abdullah-zulfiqar0">
+      abdullah-zulfiqar0
+    </a>
+  </li>
+
+  <li><b>GitHub:</b> 
+    <a href="https://github.com/abdullah-zulfiqar0">
+      github.com/abdullah-zulfiqar0
+    </a>
+  </li>
+
+  <li><b>Live Site:</b> 
+    <a href="https://abdullah-zulfiqar0.github.io/advice-generator-app/">
+      advice-generator-app
+    </a>
+  </li>
 </ul>
 
 <hr>
