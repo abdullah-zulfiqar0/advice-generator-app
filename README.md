@@ -91,13 +91,6 @@ This helped me understand:
 
 <hr>
 
-<h2>AI Collaboration</h2>
-
-<p>
-I used <b>ChatGPT</b> during this project to help with debugging JavaScript,
-understanding the Fetch API, and improving the responsive layout.
-It helped me learn faster while still writing and testing the code myself.
-</p>
 
 <hr>
 
